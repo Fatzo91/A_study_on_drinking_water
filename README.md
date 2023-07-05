@@ -2,8 +2,11 @@
 DWFA is an ONG whose ambition is to provide access to drinking water for everyone.
 
 It operates in three areas of expertise:
+
 1- Creation of drinking water access services;
+
 2- Modernization of existing water access services;
+
 3- Consulting for administrations and governments on water access policies.
 
 # Objective
